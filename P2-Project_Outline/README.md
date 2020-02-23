@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The Construction Cost Estimator will allow users to easily determine the cost of construction or renovation projects. By allowing users to select from multiple sources and 
 ### Features
 Include Features here
 ### Technologies
@@ -15,4 +15,4 @@ Include Technologies here
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YhlSNZc2/blake-group-project
