@@ -24,6 +24,7 @@ the project.
 - MySQL
 - Javascript
 - Angular
+- JHipster
 ### What I'll Have to Learn
 - How to pull data from a public API
 - How to create a REST controller to allow data to transfer from the java/spring boot back-end to javascript/angular front-end
